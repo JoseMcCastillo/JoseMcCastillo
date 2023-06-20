@@ -11,10 +11,10 @@ I'm a self-taught **programmer** from **Coahuila**, a state in **northern Mexico
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript
-- **Web Development**: HTML, CSS, JavaScript frameworks
-- **Cybersecurity**: Basics of cybersecurity concepts and best practices
-- **Problem Solving**: Analytical thinking and logical reasoning
+- 🎓 **Programming Languages**: Python, JavaScript
+- 👨‍💻 **Web Development**: HTML, CSS, JavaScript frameworks
+- 👾 **Cybersecurity**: Basics of cybersecurity concepts and best practices
+- 🧠 **Problem Solving**: Analytical thinking and logical reasoning
 
 ## Contact
 
@@ -58,5 +58,5 @@ Thank you for taking the time to view my GitHub profile. If you have any questio
 
 Thank you again for your visit, and I look forward to hearing from you soon.
 
-*A warm greeting,*
-**José Castillo**
+## *A warm greeting,*
+## **José Castillo**
